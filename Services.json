@@ -1,0 +1,36 @@
+{
+  "users":
+
+[
+   {
+      "icon" : "faCoffee" ,
+      "title" : "Data Science",
+      "description" : "metro labs is consulting firm, has data science in optimizatation of the developement to analysis of the data in the process of the technology "
+   },
+   {
+       "icon" : "faMobileAlt" ,
+       "title" : "Data Structure",
+       "description" : "metro labs is consulting firm, has data science in optimizatation of the developement to analysis of the data in the process of the technology "
+    },
+    {
+       "icon" : "faCoffee" ,
+       "title" : "Data Analytics",
+       "description" : "metro labs is consulting firm, has data science in optimizatation of the developement to analysis of the data in the process of the technology "
+    },
+    {
+       "icon" : "faCoffee" ,
+       "title" : "Web Developement",
+       "description" : "metro labs is consulting firm, has data science in optimizatation of the developement to analysis of the data in the process of the technology "
+    },
+    {
+       "icon" : "faCoffee" ,
+       "title" : "AWS Devops",
+       "description" : "metro labs is consulting firm, has data science in optimizatation of the developement to analysis of the data in the process of the technology "
+    },
+    {
+       "icon" : "faCoffee" ,
+       "title" : "Sales Fource",
+       "description" : "metro labs is consulting firm, has data science in optimizatation of the developement to analysis of the data in the process of the technology "
+    }
+]
+}

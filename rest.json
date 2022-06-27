@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "javeed",
+      "email": "javeedshaik7744@gmail.com",
+      "phone": 8074472112
+    },
+    {
+      "id": 3,
+      "name": "javeed basha",
+      "email": "javeedshaik1144@gmail.com",
+      "phone": 8074472123
+    },
+    {
+      "id": 4,
+      "name": "javeed shaik",
+      "email": "javeedshaik4477@gmail.com",
+      "phone": 8074472143
+    },
+    {
+      "id": 5,
+      "name": "javeed habib",
+      "email": "javeedshaik1122@gmail.com",
+      "phone": 8074472196
+    }
+  ],
+  "bookings": [
+    {
+      "sno": 1,
+      "Datebooking": "10-6-2022",
+      "product": "iphone 13pro"
+    },
+    {
+      "sno": 2,
+      "Datebooking": "12-6-2022",
+      "product": "iphone 12pro"
+    },
+    {
+      "sno": 3,
+      "Datebooking": "14-6-2022",
+      "product": "iphone 10pro"
+    },
+    {
+      "sno": 4,
+      "Datebooking": "17-6-2022",
+      "product": "iphone 12mini"
+    },
+    {
+      "sno": 5,
+      "Datebooking": "19-6-2022",
+      "product": "iphone 11"
+    }
+  ],
+  "admins": [
+    {
+      "sno": 1,
+      "uname": "javeed",
+      "mobile": 9346236290
+    },
+    {
+      "sno": 2,
+      "uname": "vazzu",
+      "mobile": 9346236123
+    },
+    {
+      "sno": 3,
+      "uname": "mehriya",
+      "mobile": 9346236456
+    }
+  ]
+}
